@@ -1,1 +1,12 @@
 TODO: List here all the changes you made to given template to adapt it to your needs
+
+1. I changed the icons in my services section to make them apply to my skills and services.
+2. I changed the footer to be more applicable to myself by making it only display my projects.
+3. I changed the font to better fit the theme of my portfolio.
+4. I included an introduction section that introduces me and what I do.
+5. I included a section for my skills that outlines skills that I am proficient at that are applicable to my portfolio.
+6. I changed the testimonial paragraphs to examples of what people would say about my work.
+7. In my FAQ section I included questions that people might ask if they have never dealt with user experience or any sort of web development.
+8. I reduced the latest work section to two of my real school projects with photos I used for them.
+9. I changed the footer to footer-light because I thought it worked better with my theme.
+10. I changed the social media icon section at the bottom to a matching pink color as well as the copyright statement to better fit my theme.
